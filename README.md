@@ -10,7 +10,7 @@ A simple and effective project management tool built with React. Create and mana
 
 ## 🔗 Live Demo
 
-[View it on GitHub Pages](/https://cobb304.github.io/react-project-manager/)
+[View it on GitHub Pages](https://cobb304.github.io/react-project-manager/)
 
 ## 🛠️ Installation
 
